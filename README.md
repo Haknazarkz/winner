@@ -5,7 +5,8 @@ The our main goal is to help students **understand** the university environment 
 The main opportunities does our project provide:
   * Teacher ratings - in the open access will be a rating of teachers for understanding the situation.
   * Retake analysis - analysis of student retakes and understanding the dangers of lessons.
-  * Teacher schedule - you will have access to the teacher's schedule so that you can supplement your knowledge with the teacher in your free time.And many other possibilities.
+  * Teacher schedule - you will have access to the teacher's schedule so that you can supplement your knowledge with the teacher in your free time. 
+    And many other possibilities.
   
 
 
