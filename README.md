@@ -11,5 +11,6 @@ The our main goal is to help students **understand** the university environment 
 # **Built with**
   * PL/SQL
   * JAVA
+  
   We have chosen PL/SQL - the procedural extension of Oracle corporation to implement the database and connect Java using the library JDBC to access various database operations.
   
