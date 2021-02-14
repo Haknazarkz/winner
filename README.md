@@ -3,10 +3,10 @@ Due to the **pandemic**, university students switched to distance learning and t
 The our main goal is to help students **understand** the university environment and to **quickly** master the environment.
 
 The main opportunities does our project provide:
-  * Top of students 
   * Teacher ratings - in the open access will be a rating of teachers for understanding the situation.
   * Retake analysis - analysis of student retakes and understanding the dangers of lessons.
   * Teacher schedule - you will have access to teacher's schedule so that you can supplement knowledge with in your free time.
+  * Top of students - there will be a top students in the public domain for understanding the situation.
   * Student GPA - automated calculator for your gpa.
 
 
