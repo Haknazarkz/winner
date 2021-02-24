@@ -73,4 +73,4 @@ The main opportunities does our project provide:
 * reg_date DATE – registration time
 
 # **Use-case UML diagram**
-
+https://github.com/Haknazarkz/winner/issues/1#issuecomment-785142035
