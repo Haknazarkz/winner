@@ -42,14 +42,14 @@ The main opportunities does our project provide:
 
  # **Table description** 
  1. Course_schedule – information about subjects
-* ders_kod VARCHAR2(1024) NOT NULL primary key – course code (code of subject)
+* ders_kod VARCHAR2(1024) NOT NULL – course code (code of subject)
 * year NUMBER(38,0) NOT NULL – year when subject was conducted
 * term NUMBER(38,0) NOT NULL – 1 – Fall, 2-Spring
 * section VARCHAR2(1024) NOT NULL – sections 
 * start_time VARCHAR2(1024) – time of subject on week by schedule
 
  2. Course_sections – information about teachers
-* ders_kod VARCHAR2(1024) NOT NULL foreign key – course code (code of subject)
+* ders_kod VARCHAR2(1024) NOT NULL – course code (code of subject)
 * year NUMBER(38,0) NOT NULL – year when subject was conducted
 * term NUMBER(38,0) NOT NULL – 1 – Fall, 2-Spring
 * section VARCHAR2(1024) NOT NULL – sections
@@ -60,7 +60,7 @@ The main opportunities does our project provide:
 
 3. Course_selections – information about students
 * stud_id VARCHAR2(1024) NOT NULL – id student
-* ders_kod VARCHAR2(1024) NOT NULL foreign key – course code (code of subject)
+* ders_kod VARCHAR2(1024) NOT NULL – course code (code of subject)
 * year NUMBER(38,0) NOT NULL – year
 * term NUMBER(38,0) NOT NULL - 1 – Fall, 2-Spring
 * section VARCHAR2(1024) – section
