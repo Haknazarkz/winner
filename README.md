@@ -36,7 +36,7 @@ The main opportunities does our project provide:
  12. Subject ratings for the semester (list).
  13. Calculate total number of retakes for all time and display the profit.
  14. Find in which subject the students received the most retakes.
- 15.
+ 15. Display how many students have chosen a certain teacher.
  
  # **Dataset for the Project** 
  Link for dataset which will be used in project: 
