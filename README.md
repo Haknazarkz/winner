@@ -39,7 +39,7 @@ The main opportunities does our project provide:
  15.
 
  # **Table description** 
- Table: Course_schedule – information about subjects
+ 1. Course_schedule – information about subjects
 * ders_kod VARCHAR2(1024) NOT NULL primary key – course code (code of subject)
 * year NUMBER(38,0) NOT NULL – year when subject was conducted
 * term NUMBER(38,0) NOT NULL – 1 – Fall, 2-Spring
