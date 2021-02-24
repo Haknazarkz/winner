@@ -22,20 +22,20 @@ The main opportunities does our project provide:
   We have chosen PL/SQL - the procedural extension of Oracle corporation to implement the database and connect Java using the library JDBC to access various database operations.
   
  # **General questions**
- 1.Find most popular courses for semester.
- 2.Find most popular teacher in section for semester.
- 3.Calculate GPA of student for the semester and total.
- 4.Find students who didn’t register any subjects for one semester.
- 5.Calculate how much money the student spent on retakes for the given semester (included) and total spent.
- 6.Calculate the teachers “loading” (how many hours Teacher have for given semester).
- 7.Design schedule of teacher on semester.
- 8.Design schedule of student on semester.
- 9.Display how many subjects and credits was selected by student.
- 10.Find most clever flow of students by the average rating for one subject in one teacher.
- 11.Teacher rating for the semester (list).
- 12.Subject ratings for the semester (list).
- 13.Calculate total number of retakes for all time and display the profit.
- 14. Find in which subject the students received the most retakes.
- 15.
+ *1.Find most popular courses for semester.
+ *2.Find most popular teacher in section for semester.
+ *3.Calculate GPA of student for the semester and total.
+ *4.Find students who didn’t register any subjects for one semester.
+ *5.Calculate how much money the student spent on retakes for the given semester (included) and total spent.
+ *6.Calculate the teachers “loading” (how many hours Teacher have for given semester).
+ *7.Design schedule of teacher on semester.
+ *8.Design schedule of student on semester.
+ *9.Display how many subjects and credits was selected by student.
+ *10.Find most clever flow of students by the average rating for one subject in one teacher.
+ *11.Teacher rating for the semester (list).
+ *12.Subject ratings for the semester (list).
+ *13.Calculate total number of retakes for all time and display the profit.
+ *14. Find in which subject the students received the most retakes.
+ *15.
 
   
