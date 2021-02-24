@@ -40,6 +40,7 @@ The main opportunities does our project provide:
  
  # **Dataset for the Project** 
  Link for dataset which will be used in project: 
+ https://drive.google.com/drive/folders/1-SwKFCy8hYWSHwghscZel7OHsQQOCU4M?usp=sharing
  
  # **Table description** 
  1. Course_schedule – information about subjects
