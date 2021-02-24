@@ -38,7 +38,7 @@ The main opportunities does our project provide:
  14. Find in which subject the students received the most retakes.
  15.
  
- # **Dataset for the project** 
+ # **Dataset for the Project** 
 
  # **Table description** 
  1. Course_schedule – information about subjects
