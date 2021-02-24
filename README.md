@@ -68,3 +68,5 @@ The main opportunities does our project provide:
 * practice NUMBER(38,0) – practice teacher
 * reg_date DATE – registration time
 
+# **Use-case UML diagram**
+
