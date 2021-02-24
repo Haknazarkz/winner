@@ -58,7 +58,7 @@ The main opportunities does our project provide:
 * type VARCHAR2(1024) – N, L – lection P- practice
 * emp_id NUMBER(38,0) – id teacher, instructor
 * hour_num NUMBER(38,0) – how many hours for semester
-* credits VARCHAR2(1024) NOT NULL – NUMBER (38,0) – number of credits
+* credits VARCHAR2(1024) NOT NULL – number of credits
 
 3. Course_selections – information about students
 * stud_id VARCHAR2(1024) NOT NULL – id student
