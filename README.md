@@ -39,7 +39,8 @@ The main opportunities does our project provide:
  15.
  
  # **Dataset for the Project** 
-
+ Link for dataset which will be used in project: 
+ 
  # **Table description** 
  1. Course_schedule – information about subjects
 * ders_kod VARCHAR2(1024) NOT NULL – course code (code of subject)
