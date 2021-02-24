@@ -22,8 +22,8 @@ The main opportunities does our project provide:
   We have chosen PL/SQL - the procedural extension of Oracle corporation to implement the database and connect Java using the library JDBC to access various database operations.
   
  # **General questions**
-  1.Find most popular courses for semester.
- 2.Find most popular teacher in section for semester.
+  1. Find most popular courses for semester. 
+ 2. Find most popular teacher in section for semester.
  3.Calculate GPA of student for the semester and total.
  4.Find students who didn’t register any subjects for one semester.
  5.Calculate how much money the student spent on retakes for the given semester (included) and total spent.
