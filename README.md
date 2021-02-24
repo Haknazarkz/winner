@@ -37,6 +37,8 @@ The main opportunities does our project provide:
  13. Calculate total number of retakes for all time and display the profit.
  14. Find in which subject the students received the most retakes.
  15.
+ 
+ # **Dataset for the project** 
 
  # **Table description** 
  1. Course_schedule – information about subjects
