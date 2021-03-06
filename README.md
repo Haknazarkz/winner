@@ -74,3 +74,7 @@ The main opportunities does our project provide:
 
 # **Use-case UML diagram**
 ![photo_2021-02-24_21-02-56](https://user-images.githubusercontent.com/49248372/109021122-caaeb380-76e4-11eb-9efa-8583485f0727.jpg)
+
+# **Winner-ER**
+
+![photo_2021-03-06_22-31-19](https://user-images.githubusercontent.com/49248372/110213784-b67c6a80-7ecb-11eb-9bdc-d68fd20e5c95.jpg)
