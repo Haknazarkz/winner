@@ -1,4 +1,4 @@
-# **Goal of the Project**
+# h1 **Goal of the Project**
 Due to the **pandemic**, university students switched to distance learning and this mainly affected freshmen who did not see the walls of the university and do not know the learning environment.
 The our main goal is to help students **understand** the university environment and to **quickly** master the environment.
 
