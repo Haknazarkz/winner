@@ -1,4 +1,4 @@
-To load the data into our created tables, we used the batch loading method using dBeaver for SQL Developer
+# To load the data into our created tables, we used the batch loading method using dBeaver for SQL Developer.
 
 **1. Move the mouse over our tables and click the right button then select the import data**
 
