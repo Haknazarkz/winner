@@ -48,7 +48,7 @@ The main opportunities does our project provide:
 * year NUMBER(38,0) NOT NULL – year when subject was conducted
 * term NUMBER(38,0) NOT NULL – 1 – Fall, 2-Spring
 * section VARCHAR2(1024) NOT NULL – sections 
-* start_time VARCHAR2(1024) – time of subject on week by schedule
+* start_time TIMESTAMP – time of subject on week by schedule
 
  2. Course_sections – information about teachers
 * ders_kod VARCHAR2(1024) NOT NULL – course code (code of subject)
