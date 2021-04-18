@@ -87,11 +87,19 @@ The main opportunities does our project provide:
 So in this part, using the java function System.currentTimeMillis, we calculated speed performance of the queries:
 
 1)(20+51+20+24+52)/5 =33.4 milliseconds 	-- query 1                                                    
+
 2)(26+41+29+18+29)/5 = 28.6 milliseconds	-- query 2
+
+3)(12+7+6+4+12)/5 = 8.2 milliseconds		--query 7
+
 4)(12+7+6+4+12)/5 = 8.2 milliseconds		--query 7
+
 5)(53+48+51+44+41)/5 = 47.4 milliseconds	--query 8
+
 6)5)(71+50+46+18+24)/5 = 41.8 milliseconds	--query 10
+
 7)6)(38+30+34+55+50)/5 = 41.4 milliseconds	--query 11
+
 8)7)(23+23+37+37+43)/5 = 32.6 milliseconds	--query 12
 
 Java function code and example, you can find by this link: 
