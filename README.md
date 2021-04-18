@@ -83,8 +83,9 @@ The main opportunities does our project provide:
 
 
 
-# ** Speed performance evaluation**
+# Speed performance evaluation
 So in this part, using the java function System.currentTimeMillis, we calculated speed performance of the queries:
+
 1)(20+51+20+24+52)/5 =33.4 milliseconds 	-- query 1
 2)(26+41+29+18+29)/5 = 28.6 milliseconds	-- query 2
 3)(12+7+6+4+12)/5 = 8.2 milliseconds		--query 7
@@ -93,5 +94,6 @@ So in this part, using the java function System.currentTimeMillis, we calculated
 6)(38+30+34+55+50)/5 = 41.4 milliseconds	--query 11
 7)(23+23+37+37+43)/5 = 32.6 milliseconds	--query 12
 
-Java function code and example, you can find by this link: https://github.com/Haknazarkz/winner/tree/main/Speed%20performance%20evaluation
+Java function code and example, you can find by this link: 
+https://github.com/Haknazarkz/winner/tree/main/Speed%20performance%20evaluation
 
